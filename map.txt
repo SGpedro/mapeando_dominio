@@ -1,0 +1,15 @@
+Quais as entidades de domínio?
+- produto
+- estoque
+- alerta
+- ordens de compra
+
+
+Quais as ações (casos de uso) que essa aplicação deve ter?
+- Listar um produto
+- Definir quantidade mínima de estoque
+- Visualizar histórico de vendas e estoque
+- Visualizar lucro gerado por produto
+- Visualizar quais produtos estão vendendo melhor em cada período
+- Visualizar tendencias de estoque
+- Criar e gerenciar ordens de compra
